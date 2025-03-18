@@ -1,17 +1,17 @@
-#Lead Scoring Case Study
-  ##**Overview**
+# Lead Scoring Case Study
+  ## **Overview**
     This repository contains files and code for the Lead Scoring Case Study, aimed at analyzing and improving lead conversion rates using data-driven insights. The project involves exploratory data analysis (EDA), feature engineering, logistic regression modeling, and actionable recommendations.
 
-  ##**Contents**
+  ## **Contents**
     Assignment Subjective Questions.pdf: Contains subjective questions related to the case study.
     Lead_Scoring_case_study.ipynb: Jupyter Notebook with the code for data cleaning, EDA, modeling, and evaluation.
     Lead_scoring_case_study.pdf: A detailed report summarizing the findings and methodologies used in the case study.
     Summary Report.pdf: A concise presentation of results and recommendations.
 
-  ##**Motivation**
+  ## **Motivation**
     The goal of this project is to build a predictive model to identify leads most likely to convert into customers. This helps optimize marketing efforts and improve resource allocation.
 
-  ##**Methodology**
+  ## **Methodology**
     ### 1. Data Cleaning:
       a. Handling missing values.
       b. Removing irrelevant columns.
@@ -26,7 +26,7 @@
       a. Confusion matrix, accuracy, sensitivity, specificity.
       b. ROC curve analysis.
       
-  ##**Results**
+  ## **Results**
     a. Top 3 factors influencing lead conversion:
     b. Lead Origin: Lead Add Form
     c. Lead Source: Welingak Website
@@ -41,7 +41,7 @@
   3. Open the Jupyter Notebook (Lead_Scoring_case_study.ipynb) to explore the code and analysis:
     jupyter notebook Lead_Scoring_case_study.ipynb
 
-  ##Contributors
+  ## **Contributors**
   The following members contributed towards creating this project - 
     1. Kaustav Ghosh.
      Email - 1705143@kiit.ac.in
