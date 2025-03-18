@@ -12,17 +12,17 @@
     The goal of this project is to build a predictive model to identify leads most likely to convert into customers. This helps optimize marketing efforts and improve resource allocation.
 
   ## **Methodology**
-    ### 1. Data Cleaning:
+    1. Data Cleaning:
       a. Handling missing values.
       b. Removing irrelevant columns.
       c. Encoding categorical variables.
-    ### 2. Exploratory Data Analysis (EDA):
+    2. Exploratory Data Analysis (EDA):
       a. Analyzing trends in lead conversion rates.
       b. Identifying key factors influencing lead conversion.
-    ### 3. Modeling:
+    3. Modeling:
       a. Logistic Regression to predict lead conversion probability.
       b. Feature selection based on statistical significance.
-    ### 4. Evaluation:
+    4. Evaluation:
       a. Confusion matrix, accuracy, sensitivity, specificity.
       b. ROC curve analysis.
       
@@ -34,18 +34,18 @@
   **Recommendations** provided to optimize lead conversion strategies.
   
   ## **How to Use**
-  1. Clone this repository:
-    git clone https://github.com/KaustavGhosh-97/Lead-Scoring-Case.git 
-  2. Navigate to the project directory:
-     cd Lead-Scoring-Case
-  3. Open the Jupyter Notebook (Lead_Scoring_case_study.ipynb) to explore the code and analysis:
-    jupyter notebook Lead_Scoring_case_study.ipynb
+    1. Clone this repository:
+      git clone https://github.com/KaustavGhosh-97/Lead-Scoring-Case.git 
+    2. Navigate to the project directory:
+      cd Lead-Scoring-Case
+    3. Open the Jupyter Notebook (Lead_Scoring_case_study.ipynb) to explore the code and analysis:
+      jupyter notebook Lead_Scoring_case_study.ipynb
 
   ## **Contributors**
-  The following members contributed towards creating this project - 
-    1. Kaustav Ghosh.
-     Email - 1705143@kiit.ac.in
-    2. Aafia Arham
-     Email - Aafiyaharham13@gmail.com 
-    3. Sumit .
-     Email - 94.sumit2000@gmail.com
+    The following members contributed towards creating this project - 
+      1. Kaustav Ghosh.
+       Email - 1705143@kiit.ac.in
+      2. Aafia Arham
+       Email - Aafiyaharham13@gmail.com 
+      3. Sumit .
+       Email - 94.sumit2000@gmail.com
